@@ -14,9 +14,9 @@ namespace CSLIGHT
             //Console.ReadKey();//ввод клавиши
             string name = "";
             ushort age = 19;
-            long big_number = 366664;
+            long bigNumber = 366664;
             uint year;
-            float average_score = 1.2f;
+            float averageScore = 1.2f;
             char symbol = 'h';
             bool flag;
             byte state = 2;
